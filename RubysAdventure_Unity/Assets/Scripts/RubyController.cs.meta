@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ebc41906d7e7c724bab5421861d97557
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - projectilePrefab: {instanceID: 0}
+  - WinTextObject: {instanceID: 0}
+  - LostTextObject: {instanceID: 0}
+  - throwSound: {fileID: 8300000, guid: b2edfd40873655249ba0e01a5cf705be, type: 3}
+  - hitSound: {fileID: 8300000, guid: 9b1bb1f450b7d444fa4a8019d13519a7, type: 3}
+  - collectedClip: {fileID: 8300000, guid: af5f8b64e3f58f24c87ff8f789b04f6c, type: 3}
+  - Background: {instanceID: 0}
+  - damageEffect: {instanceID: 0}
+  - hitEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
